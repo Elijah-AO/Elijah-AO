@@ -4,6 +4,5 @@
     <td><img src="https://wakatime.com/share/@EliijahAO/971e45a2-747a-42b0-bac5-48ddab8122a9.png" /></a></td>
   </tr>
 </table>
-<a 
-  <img height=200 align="center" src="github-readme-stats-eight-sigma-14.vercel.app/api/top-langs?username=Elijah-AO&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img align = "left" alt "test" src = "https://github-readme-stats.vercel.app/api?username=Elijah-AO&show_icons=truw&hide_border=true"
+
