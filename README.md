@@ -4,5 +4,11 @@
     <td><img src="https://wakatime.com/share/@EliijahAO/971e45a2-747a-42b0-bac5-48ddab8122a9.png" /></a></td>
   </tr>
 </table>
-<img align = "left" alt "test" src = "https://github-readme-stats.vercel.app/api?username=Elijah-AO&show_icons=truw&hide_border=true"
+
+
+[![Your GitHub Stats](https://github-readme-stats-six-gray-36.vercel.app/api/top-langs?username=Elijah-AO)](https://github.com/Elijah-AO/github-readme-stats)
+<!-- [![Your GitHub Stats](https://github-readme-stats-six-gray-36.vercel.app/api/wakatime?username=EliijahAO)](https://github.com/Elijah-AO/github-readme-stats) -->
+
+
+
 
