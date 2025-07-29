@@ -8,9 +8,6 @@
       <a href="https://github.com/Elijah-AO/github-readme-stats">
         <img src="https://github-readme-stats-six-gray-36.vercel.app/api/wakatime?username=EliijahAO&theme=jolly&custom_title=Most%20Used%20Languages&layout=compact&langs_count=22&display_format=percent" alt="Your GitHub Stats" width="407">
       </a>
-      <a href="https://wakatime.com/@EliijahAO">
-        <img src="https://wakatime.com/share/@EliijahAO/2e41c222-5002-426d-a4cf-cf296b3efeb7.svg" alt="Wakatime Stats" width="400">
-      </a>
     </td>
   </tr>
 </table>
